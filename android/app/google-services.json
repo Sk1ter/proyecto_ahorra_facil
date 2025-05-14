@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793955631886",
+    "project_id": "ahorra-facil-e1075",
+    "storage_bucket": "ahorra-facil-e1075.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793955631886:android:143d653640f58f49224d5f",
+        "android_client_info": {
+          "package_name": "com.example.final_app_ahorrafacil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCev4DxwA7o8fksvMIalmKFfEpXSA0tky4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
